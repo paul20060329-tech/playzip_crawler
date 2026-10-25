@@ -1,0 +1,21 @@
+# ===== 数据产物（运行生成，体积大且含个人爬取结果）=====
+Game_Category_List.xlsx
+Game_Category_List.xlsx.bak
+
+# ===== 运行日志 =====
+run_log.txt
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+*.log
+
+# ===== 编辑器 / 操作系统 =====
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
